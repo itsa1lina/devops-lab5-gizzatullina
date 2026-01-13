@@ -1,4 +1,4 @@
-name: Build and Delivery
+name: Test Python App
 
 on:
   workflow_run:
